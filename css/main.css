@@ -203,6 +203,11 @@ h6, .h6 {
   color: #ffffff;
 }
 
+p, .p {
+  font-size: 14px;
+  color: #ffffff;
+}
+
 td, th {
   border-radius: 0px;
 }
@@ -213,6 +218,14 @@ td, th {
   height: auto;
 }
 
+.imagere
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* Container holding the image and the text */
 .container {
   position: relative;
